@@ -1,2 +1,2 @@
-# test
-This is a tutorial track.
+# My Repository - a basic one
+This is the basic repository of a little fairy.
